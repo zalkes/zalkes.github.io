@@ -27,10 +27,10 @@
     
       <div>
         <ul class="nav-links" data-visible="false">
-          <li><a href="index.html#">Home</a></li>
-          <li><a href="index.html#Rooms">Rooms</a></li>
-          <li><a href="index.html#Reservation" onclick="pemberitahuan()">Reservation</a></li>
-          <li><a href="index.html#About">About Me</a></li>
+          <li><a href="../index.html#">Home</a></li>
+          <li><a href="../index.html#Rooms">Rooms</a></li>
+          <li><a href="../index.html#Reservation" onclick="pemberitahuan()">Reservation</a></li>
+          <li><a href="../index.html#About">About Me</a></li>
           <li><a href="" class="login">Login</a></li>
           <li class="btn"><input type="checkbox" id="dark-mode-button"></li>
         </ul>
